@@ -1,0 +1,23 @@
+Funciones de registro:
+assert() - Aparece un mensaje de error en la consola si la afirmacion es falsa. SI la afirmacion es verdadera, no aparecera nada.
+clear() - limpia la consola.
+error() - Muestra un mensaje de error en la consola web.
+info() -  Emite un mensaje informativo a la consola web. En firefox y chrome, se muestra un pequeno icono "i" junto a estos elementos en el registro de la consola web.
+log() - Muestra un mensaje en la consola.
+table() - Esta funcion toma un argumento obligatorio: data, que debe ser un array o un objeto,y un parametro adicional: columns y nos muestra una tabla en consola.
+warn() - Imprime un mensaje de advertencia en la consola.
+dir() - Despliega una lista interactiva de las propiedades del objeto javascript especificado.
+
+Funciones de conteo:
+count() - Registra el numero de veces que se llama a count(). Esta funcion toma como argumento opcional una etiqueta.
+countReset() - Resetea el contador console.count()
+
+Funciones de agrupacion:
+group() - Crea un nuevo grupo en linea en el registro de la consola.
+groupEnd() - Remueve un grupo en linea en el registro de la consola.\
+groupCollapsed() - Crea un grupo en linea pero contraido, el usuario debe expandirlo para verlo.
+
+Funciones de temporizacion:
+time() - inicia un temporizador.
+timeEnd() - Registra el valor actual de un temporizador.
+timeLog() - Detiene un temporizador.
