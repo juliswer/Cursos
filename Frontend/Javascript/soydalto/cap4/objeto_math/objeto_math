@@ -1,0 +1,20 @@
+Metodos:
+sqrt() - DEvuelve la raiz cuadrada positiva de un numero
+cbrt() - Devuelve la raiz cubica de un numero
+max() - Devuelve el mayor de cero o mas numeros
+random() - deuvelve un numero pseudo-aleatorio entre 0 y 1.
+round() - DEvuelve el valor de un numero redondeado al numero entero mas cercano
+fround() - DEvuelve la representacion flotante de precisxion simple mas cercana de un numero.
+floor() - deuvelve el mayor entero menor que o igual a un numero.
+trunc() - Devuelve la parte entera del numero x, la eliminacion de los digitos fraccionarios
+
+Propiedades:
+PI - 
+SQRT1_2 - Raiz cuadrada de 1/2; Equivalentemente, 1 sobre la raiz cuadrada de 2, aproximadamente 0,707.
+SQRT2 - Raiz cuadrada de 2, aproximadamente 1,414;
+
+E - COnstante de Euler, la base de los logaritmos naturales, aproximadamente 2.718
+LN2 - Logaritmo natural de 2, aproximadamente 0,693.
+LN10 - Logaritmo natural de 10, aproximadamente 2,303.
+LOG2E - Logaritmo de E con base 2, aproximadamente 1,443.
+LOG10e - Logaritmo de E con base 10, aproximadamente 0,434.
