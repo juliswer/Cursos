@@ -21,3 +21,5 @@ Funciones de temporizacion:
 time() - inicia un temporizador.
 timeEnd() - Registra el valor actual de un temporizador.
 timeLog() - Detiene un temporizador.
+
+Modificacion de texto:
