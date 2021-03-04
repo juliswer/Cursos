@@ -1,0 +1,10 @@
+Atributos de inputs:
+
+    -className
+    -value
+    -type
+    -accept
+    -form
+    -minlength
+    -placeholder
+    -required
