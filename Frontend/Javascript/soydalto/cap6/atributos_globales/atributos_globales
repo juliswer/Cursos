@@ -1,0 +1,10 @@
+Atributos globales
+
+    class - Lista de clases del elemento separads por espacios.
+    contenteditable - INdica si el elemento puede ser modificable por el usuario (bool).
+    dir - Indica la direccionalidad del texto.
+    hidden - Indica si el elemento aun no es, o ya no es, relevante.
+    id - Define un identificador unico.
+    style - contiene declaraciones de estilo css para ser aplicadas al elemento.
+    tabindex - INdica si el elemento puede obtener un focus de input.
+    title - contiene un texto con informacion relacionada al elemento al que pertenece.
