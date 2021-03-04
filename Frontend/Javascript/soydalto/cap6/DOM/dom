@@ -1,0 +1,11 @@
+Nodo - Un nodo en el DOM es cualquier etiqueta del cuerpo, como un parrafo, el mismo body o incluso las etiquetas de una lista.
+
+    Document - El nodo Document es el nodo raiz, a partir del cual derivan el resto de nodos.
+
+    Element - Nodos definidos por etiquetas HTML.
+
+    Text - El texto dentro de un nodo element se considera un nuevo hijo de tipo text.
+
+    Attribute - Los atributos de las etiquetas definen nodos, (en JavaScript no los vemos como nodos, sino como info asociada al nodo de tipo element)
+
+    Comentarios y otros - Los comentarios y otros elementos como las declaraciones doctype en cabecera de los documentos HTML generan nodos.
