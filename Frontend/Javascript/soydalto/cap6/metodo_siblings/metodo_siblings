@@ -1,0 +1,6 @@
+Propiedades de Sibligns 
+
+nextSibling()
+previousSibling()
+nextElementSibling()
+previousElementSibling()
