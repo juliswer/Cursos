@@ -1,0 +1,5 @@
+Metodos de childs
+
+replaceChild()
+removeChild()
+hasChildNodes()
