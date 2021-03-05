@@ -1,0 +1,5 @@
+Creacion de elementos 
+    createElements()
+    createTextNode()
+    appendChild()
+    createDocumentFragment()
