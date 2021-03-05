@@ -1,0 +1,5 @@
+textContent = Devuelve el texto de cualquier nodo
+innerText = Devuelve el texto ivsible de un node element. Esta en desuso
+outerText = DEvuelve el texto que contiene las etiquetas HTML incluidas las etiquetas. Esta en desuso
+innerHTML = Devuelve el contenido HTML de un elemento.
+outerHTML = Devuelve el codigo HTML completo del elemento.
