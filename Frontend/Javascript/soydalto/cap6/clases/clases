@@ -1,0 +1,6 @@
+add() - Anade una clase
+remove() - Remueve una clase
+item() - Devuelve la clase del indice especificado
+contains() - Verifica si ese elemento posee o no, la clase especificada.
+replace() - Reemplaza una clase por otra.
+toggle() - si no tiene la clase especificada la grega, si ya la tiene, la elimina.
