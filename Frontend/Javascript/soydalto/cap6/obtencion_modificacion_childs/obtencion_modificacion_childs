@@ -1,0 +1,8 @@
+Obtencion y modificacion de childs
+
+    firstChild
+    lastChild
+    firstElementChild
+    lastElementChild
+    childNodes
+    children
