@@ -1,0 +1,4 @@
+Eventos del teclado:
+keydown - ocurre cuando una tecla se deja de presionar
+keypress - ocurre cuando una tecla se presiona
+onkeyup - ocurre despues de que los dos eventos anteriores hayan concluido consecutivamente
