@@ -1,0 +1,8 @@
+Eventos:
+- Definicion
+- de eventos o "Event handlers"
+- Escucha eventos o "Event Listeners"
+- El objeto Event
+- Flujo de eventos o "event flow"
+- Event bubbling vs Event capturing
+- event.stopPropagation()
