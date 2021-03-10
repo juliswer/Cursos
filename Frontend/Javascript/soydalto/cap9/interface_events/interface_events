@@ -1,0 +1,9 @@
+Eventos de la interfaz:
+abort - Ocurre cuando un elemento madre elimina a su hijo
+error - ocurre cuando sucede un error durante la carga de un archivo multimedia
+load - ocurre cuando un objeto se ha cargado
+beforeunload - Ocurre antes de que el documento este a punto de descargarse
+unload - ocurre una vez que se ha descargado una pagina
+resize - Ocurre cuando se cambia el tamano de vista del documento
+scroll - ocurre cuando se desplaza la barra de desplazamiento de un elemento
+select - ocurre despues de que el usuario selecciona un texto de <input> o <textarea>
