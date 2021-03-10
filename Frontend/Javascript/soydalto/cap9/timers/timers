@@ -1,0 +1,5 @@
+timers:
+setTimeout()
+setInterval()
+clearTimeout()
+clearInterval()
