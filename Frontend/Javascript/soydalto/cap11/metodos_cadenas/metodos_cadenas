@@ -1,0 +1,14 @@
+Metodos transformadores de cadenas obsoletos o no recomendados:
+big() - Crea un <big>
+blink() - Crea un <blink>
+blod() - Crea un <b>
+fixed() - crea un <tt>
+fontcolor() - crea un f<ontcolor>
+fontsize() - crea un <font>
+italics() - crea un <i>
+anchor() - crea un <a> (sin href)
+link() - Crea un <a> (con href)
+small() - crea un <small>
+strike() - Crea un <strike>
+sub() - Crea un <sub>
+sup() - Crea un <sup>
