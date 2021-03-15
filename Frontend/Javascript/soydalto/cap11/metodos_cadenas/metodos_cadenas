@@ -12,3 +12,15 @@ small() - crea un <small>
 strike() - Crea un <strike>
 sub() - Crea un <sub>
 sup() - Crea un <sup>
+
+Metodos especificos obsoletos:
+- observe()
+- unobserve()
+- getNotifier()
+- watch()
+- unwatch()
+- toSource()
+- escape()
+- unescape()
+- uneval como metodo
+- eval como metodo
