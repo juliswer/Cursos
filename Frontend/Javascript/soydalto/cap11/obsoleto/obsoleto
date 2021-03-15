@@ -5,3 +5,14 @@ Cuando algo se vuelve obsoleto?
 - Con bugs o fallos
 - Esta por ser reemplazado
 - Hay mejores formas de hacerlo
+
+Los efectos negativos:
+- Uso excesivo de recursos
+- Codigo con bugs o fallos
+- Codigo innecesariamente largo
+- SEO
+
+Como verificar si esta obsoleta?
+- 1 de cada 3 WEBS utiliza librerias de javascript obsoletas
+- verificar si tienene o usan funciones, metodos, objetos o metodologias obsoletas
+- verificar en los sitios basados en estandadres oficiales
