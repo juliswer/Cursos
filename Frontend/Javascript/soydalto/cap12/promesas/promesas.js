@@ -125,11 +125,29 @@ const obtenerInstagram = (id)=> {
     })
 }
 
-obtenerPersona().then((persona)=>{
+let id = 4;
+
+obtenerPersona(id).then((persona)=>{
     console.log(persona.nombre);
-    return obtenerInstagram(1);
+    return obtenerInstagram(id);
     }).then((instagram)=>{
         console.log(instagram)
    }).catch((e)=>{
     console.log(e)
 })
+
+const objeto = {
+    propiedad1: "valor1",
+    propiedad2: "valor2",
+    propiedad3: "valor3"
+}
+
+function obtenerInformacion(){
+    new Promise((resolve,reyect)=> {
+        setTimeout(()=>{
+            resolve(objeto)
+        },1000)
+    })
+}
+
+console.log(obtenerInformacion())
