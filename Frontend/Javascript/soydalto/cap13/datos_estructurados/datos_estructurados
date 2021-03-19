@@ -1,0 +1,5 @@
+Datos esctructurados (JSON):
+- Serializacion y deseralizacion
+Metodo parse() - Convierte un string con estructura JSON a formato JSON (deserializar)
+Metodo stringify() - Convierte un dato de Javascript en una cadena de texto JSON (serializar)
+- JSON PolyFill
