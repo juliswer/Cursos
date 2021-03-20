@@ -1,0 +1,8 @@
+Fetch:
+- Basado en promesas
+- Objeto fetch
+- text()
+- json()
+- blob()
+- formData()
+- arrayBuffer()
