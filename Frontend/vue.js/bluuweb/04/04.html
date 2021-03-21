@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+    <title>Document</title>
+</head>
+<body>
+    <div id="app" class="container mt-5">
+        <div :class="['p-3','text-white', fondo]">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consequatur sapiente reprehenderit recusandae rerum nulla excepturi quae placeat, expedita, dolore nam exercitationem voluptates inventore itaque tempore, saepe quo! Veniam, quibusdam beatae?</p>
+        </div>
+        <input type="text" class="form-control my-3" v-model="fondo">
+        <div class="text-white p-3" :class="{'bg-info' : color, 'bg-success' : !color}">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur quidem enim sunt qui corrupti, excepturi consequatur, sapiente quibusdam asperiores voluptate ipsam dolores dolorem? Eos ad soluta cum quaerat enim provident!</p>
+        </div>
+        <button class="btn btn-primary mt-2" @click="color = !color">Cambiar</button>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+    <script src="04.js"></script>
+</body>
+</html>
