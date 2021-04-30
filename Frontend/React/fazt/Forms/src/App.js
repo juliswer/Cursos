@@ -15,7 +15,7 @@ class App extends Component{
       title: title,
       description: description,
       id: 4
-    }
+    };
     this.setState({
       tasks: [...this.state.tasks, newTask]
     })
