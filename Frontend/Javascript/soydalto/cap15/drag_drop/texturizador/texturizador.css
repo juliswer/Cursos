@@ -1,0 +1,37 @@
+body {
+    color: #222;
+    font-family: serif;
+    padding: 0;
+    margin: 0;
+}
+
+.texturas {
+    margin: 10px;
+    border: 1px solid #000;
+    border-radius: 5px;
+}
+
+.texturas div {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 6px;
+}
+
+.textura1 {
+    background: coral;
+}
+
+.textura2 {
+    background: cornflowerblue;
+}
+
+.textura3 {
+    background: chartreuse;
+}
+
+.zona {
+    margin: 10px;
+    background: #ddd;
+    height: 200px;
+}
