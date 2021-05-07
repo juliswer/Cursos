@@ -1,0 +1,47 @@
+body {
+    color: #222;
+    font-family: serif;
+    text-align: center;
+}
+
+body, h2, div, input, button {
+    padding: 0;
+    margin: 0;
+}
+
+.nombres {
+    margin: 40px;
+}
+
+.nombre {
+    display: grid;
+    grid-template-columns: minmax(100px, 300px) 1fr;
+    border-top: 1px solid #48e;
+}
+
+.options {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.add-nombres {
+    margin-top: 40px;
+}
+
+#nombre, #add {
+    padding: 4px 8px;
+}
+
+.options button {
+    background: transparent;
+    border: none;
+    margin: 4px 10px;
+}
+
+.delete:hover {
+    color: #999;
+}
+
+.imposible {
+    color: #ccc;
+}
