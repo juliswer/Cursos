@@ -51,4 +51,10 @@
     $f = (int)$d;
 
     var_dump($f);
+
+    define("PI", 3.141516);
+
+    echo PI;
+
+    echo phpversion();
 ?>
