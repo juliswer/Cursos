@@ -29,5 +29,5 @@
 
     while($uno = mysqli_fetch_array($resultado)){
         echo $uno['nombre'] . $uno['apellido'];
-    }
+    };
 ?>
