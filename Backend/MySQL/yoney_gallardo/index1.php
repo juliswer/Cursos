@@ -28,7 +28,7 @@
             id_producto INT,
             FOREIGN KEY (id_cliente) REFERENCES clientes(id_cliente),
             FOREIGN KEY (id_producto) REFERENCES productos(id_producto)
-        )
+        );
     ";
     $resultado = mysqli_query($conexion, $solicitud);
 
