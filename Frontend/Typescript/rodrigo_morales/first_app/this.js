@@ -13,4 +13,4 @@ vehicle.drive();
 var motorcycle = {
     drive: vehicle.drive
 };
-console.log(motorcycle.drive());
+console.log(motorcycle.drive())
