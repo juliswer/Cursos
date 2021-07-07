@@ -9,7 +9,7 @@ namespace Curso_de_.NET_core
             int year = Convert.ToInt16("12");
             double doble = 2.5;
             string nombre = "Julian";
-            String nombres = "Alex, Joel, Julian";
+            String nombres = "Alex, Joel, Julian"
             decimal decimals = 2.07M;
             float flotante = 8.0F;
             Console.WriteLine("Hello {2} en C#! {0} {1}", year, doble, nombre);
